@@ -1,4 +1,4 @@
-Bu projede birden fazla depoya sahip bir şirketin ürün stoklarını, depo arası sevk işlemlerini ve müşteri siparişlerini takip edebileceği bir veritabanı oluşturulması amaçlanıyor.
+Bu projede birden fazla depoya sahip bir şirketin ürün stoklarını, depo arası sevk işlemlerini ve müşteri siparişlerini takip edebileceği bir veritabanı oluşturulması amaçlanıyor. Bu proje sayesinde dışarıdan gelen ürünlerin hangi depoya eklendiği, şubeler arası transferlerin durumu ve müşterilere yapılan satışların anlık stoklara etkisi görülür. Proje ile lojistik karmaşalar önlenir ve işlemler kayıt altında tutulur.
 Proje en az 9 temel tablodan oluşmaktadır:
 
 Depolar: Şirketin merkez ve şube depolarının konum, adres ve sorumlu bilgileri.
